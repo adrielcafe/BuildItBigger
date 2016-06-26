@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="tell_joke">Tell me a joke</string>
+    <string name="connect_internet">Connect to internet</string>
+
+    <string name="ad_app_id" translatable="false">ca-app-pub-2001563239424098~5821472830</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-2001563239424098/2728405631</string>
+    <string name="interstitial_ad_unit_id" translatable="false">ca-app-pub-2001563239424098/1251672436</string>
+
+</resources>
